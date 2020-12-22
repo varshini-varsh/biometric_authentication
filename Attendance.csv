@@ -1,0 +1,12 @@
+#Attendees name and time will be estimate in this .csv file
+
+NAME,TIME
+
+# for example I'm using.......
+
+# OUTPUT:
+NAME,TIME
+name1,12.03.06
+name2,12.05.34
+name3,12.10.56
+....
